@@ -1,0 +1,132 @@
+{
+  "metainfo": {
+    "sha1_name": "a",
+    "pages_amount": 1,
+    "text_blocks_amount": 9,
+    "tables_amount": 0,
+    "pictures_amount": 1,
+    "equations_amount": 0,
+    "footnotes_amount": 0
+  },
+  "content": [
+    {
+      "page": 1,
+      "content": [
+        {
+          "text": "1",
+          "type": "list_item",
+          "text_id": 0,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 0,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "OCR",
+          "type": "list_item",
+          "text_id": 1,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 0,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "Log",
+          "type": "list_item",
+          "text_id": 2,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 0,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "Spring Security. AO",
+          "type": "list_item",
+          "text_id": 3,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 0,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "MVCC.",
+          "type": "list_item",
+          "text_id": 4,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 0,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "18091157695@163.com",
+          "type": "text",
+          "text_id": 5
+        },
+        {
+          "text": "Redis Minlo_",
+          "type": "list_item",
+          "text_id": 6,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 1,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "UDP . HTTP .",
+          "type": "list_item",
+          "text_id": 7,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 1,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "text": "TRREE",
+          "type": "list_item",
+          "text_id": 8,
+          "enumerated": false,
+          "marker": "",
+          "group_id": 1,
+          "group_name": "list",
+          "group_label": "list"
+        },
+        {
+          "type": "picture",
+          "picture_id": 0
+        }
+      ],
+      "page_dimensions": {
+        "l": 16.333333333333332,
+        "t": 671.0,
+        "r": 33.0,
+        "b": 654.0,
+        "coord_origin": "BOTTOMLEFT"
+      }
+    }
+  ],
+  "tables": [],
+  "pictures": [
+    {
+      "picture_id": 0,
+      "page": 1,
+      "bbox": [
+        577.840576171875,
+        1189.102430343628,
+        680.0012817382812,
+        1064.349136352539
+      ],
+      "children": [],
+      "semantics": {
+        "description": "This image is **not a natural scene**—it is a formal portrait photograph of a young man against a solid-colored studio background.\n\nHere is a detailed breakdown according to your requested categories, acknowledging the nature of the image:\n\n1. **Main Objects**  \n   - A single person: a young East Asian man, likely in his late teens or early twenties.  \n   - He has short, dark, slightly tousled hair and wears black-rimmed rectangular eyeglasses.  \n   - He is dressed formally in a navy blue suit jacket over a crisp white collared shirt (buttoned to the top, no tie).  \n   - A white pocket square is neatly placed in the left breast pocket of the jacket.  \n   - His posture is upright, facing forward, with a neutral, composed expression—slight hint of a closed-mouth smile.  \n   - No animals, plants, or landscape elements are present.\n\n2. **Environment and Background Features**  \n   - The background is a uniform, saturated deep red (maroon or crimson), typical of studio portrait backdrops.  \n   - There are no environmental details—no sky, trees, water, buildings, or terrain.  \n   - Lighting appears to be controlled studio lighting: even, frontal illumination with soft shadows, suggesting a diffused light source (e.g., softbox) positioned slightly above eye level.  \n   - The image is tightly cropped from the chest up, emphasizing the subject’s face and upper torso.\n\n3. **Interactions Between Objects**  \n   - Since only one person is present and no other objects (beyond clothing accessories) are visible, there are no interpersonal or object–object interactions.  \n   - The only “interaction” is the subject’s direct gaze toward the camera, implying engagement with the viewer/photographer.  \n   - The pocket square and glasses are static elements of attire—not interacting dynamically but contributing to the overall presentation.\n\n4. **Colors, Lighting, and Overall Atmosphere**  \n   - **Colors**: Dominated by the rich red background, contrasting with the navy blue suit and pure white shirt/pocket square. The skin tone is warm and natural; the black frames of the glasses provide sharp contrast.  \n   - **Lighting**: Soft, even, and flattering—minimizes harsh shadows on the face, highlights facial features gently, and avoids glare on the glasses (suggesting anti-reflective coating or careful lighting setup).  \n   - **Atmosphere**: Formal, professional, and calm. The composition conveys dignity, seriousness, and readiness—typical of identification photos, graduation portraits, or official documentation. There is no sense of wilderness, spontaneity, or natural ambiance; instead, the mood is deliberate and composed.\n\nIn summary: This is a studio portrait, not a natural scene. It emphasizes human subjectivity, formality, and controlled aesthetics rather than ecological or environmental context.",
+        "image_type": "Natural scene (landscape/people/animals etc.)"
+      }
+    }
+  ]
+}

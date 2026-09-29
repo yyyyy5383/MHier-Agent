@@ -1,0 +1,28 @@
+model_id: haha_this_is_empty
+module_name: haha
+class_name: empty
+max_new_tokens: 256
+temperature: 0
+mode: api
+base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+api_key: ${oc.env:DASHSCOPE_API_KEY_LLM,""}
+
+llm:
+  mode: api
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  api_key: ${oc.env:DASHSCOPE_API_KEY_LLM,""}
+  model: qwen3-vl-plus
+
+vlm:
+  mode: api
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  api_key: ${oc.env:DASHSCOPE_API_KEY_VLM,""}
+  model: qwen3-vl-plus
+
+embedding:
+  mode: api
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  api_key: ${oc.env:DASHSCOPE_API_KEY_EMBEDDING,""}
+  model: text-embedding-v4
+  dimension: 1024
+  max_batch_size: 10

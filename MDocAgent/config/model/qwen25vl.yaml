@@ -1,0 +1,10 @@
+defaults:
+  - base
+  - _self_
+
+model: qwen3-vl-plus
+mode: api
+base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+api_key: ${oc.env:DASHSCOPE_API_KEY_VLM,""}
+module_name: models.openai
+class_name: MyOpenAI

@@ -1,0 +1,25 @@
+defaults:
+  - base
+  - _self_
+
+name: mhier_retrieval
+module_name: retrieval.mhier_retrieval
+class_name: MHierRetrieval
+
+model_type: mhier
+model_name: MHierRetrieval
+class_path: retrieval.mhier_retrieval.MHierRetrieval
+
+vector_db_dir: data/vector_db
+documents_dir: data/processed_json
+raptor_tree_dir: data/raptor_tree
+images_dir: data/page_images
+
+top_k: 5
+llm_rerank: true
+llm_reranking_sample_size: 28
+documents_batch_size: 1
+llm_weight: 0.7
+return_parent_pages: true
+vector_backend: raw_faiss
+chain_backend: legacy
